@@ -166,7 +166,7 @@ export default function ProfilePage() {
                           </div>
                         </CardContent>
                       </Card>
-                      <Card className="bg-green-500/5 border-green-500/20">
+                      <Card className="bg-green-500/5 dark:bg-green-500/10 border-green-500/20 dark:border-green-500/30">
                         <CardContent className="pt-6">
                           <div className="text-center space-y-1">
                             <p className="text-sm text-muted-foreground">Remaining</p>
@@ -176,7 +176,7 @@ export default function ProfilePage() {
                           </div>
                         </CardContent>
                       </Card>
-                      <Card className="bg-orange-500/5 border-orange-500/20">
+                      <Card className="bg-orange-500/5 dark:bg-orange-500/10 border-orange-500/20 dark:border-orange-500/30">
                         <CardContent className="pt-6">
                           <div className="text-center space-y-1">
                             <p className="text-sm text-muted-foreground">Used</p>
